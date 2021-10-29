@@ -2,11 +2,11 @@
 
 ## Heroes of Pymoli
 
-Analyzing the data for their most recent fantasy game Heroes of Pymoli.
+Analyzed the data for one of the most recent fantasy game Heroes of Pymoli.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. The company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.  I generated a report that breaks down the game's purchasing data into meaningful insights.
 
-Final report should include each of the following:
+Final report includes each of the following:
 
 ### Player Count
 
@@ -68,7 +68,8 @@ Final report should include each of the following:
   * Total Purchase Value
 
 
-#### Consideration:
+#### Used:
 
-* Using the Pandas Library and the Jupyter Notebook.
+* Python's library Pandas 
+* Jupyter Notebook
 
