@@ -1,4 +1,4 @@
-# Pandas 
+# Analysis with Python's library Pandas 
 
 ## Heroes of Pymoli
 
